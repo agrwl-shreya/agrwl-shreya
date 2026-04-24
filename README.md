@@ -81,16 +81,6 @@
 - 🔵 **Cloud Computing** — NPTEL, IIT Kharagpur (IaaS, PaaS, SaaS, cloud architecture)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrwl-shreya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agrwl-shreya&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agrwl-shreya&color=blue&style=flat-square" alt="profile views"/>
 </p>
